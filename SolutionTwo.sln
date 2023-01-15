@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExternalAssemblyReflector", "ExternalAssemblyReflector\ExternalAssemblyReflector.csproj", "{5D4AC884-6B60-41BC-BED3-803D5F66007A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplyingAttributes", "ApplyingAttributes\ApplyingAttributes.csproj", "{C690D099-32BA-49F2-8BAB-20F4D032CABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributedCarLibrary", "AttributedCarLibrary\AttributedCarLibrary.csproj", "{FDEABFDD-CBE2-441D-B0C8-4170DC288056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleDescriptionAttributeReader", "VehicleDescriptionAttributeReader\VehicleDescriptionAttributeReader.csproj", "{E8477E66-238D-446C-8E47-529A5E3A243A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleDescriptionAttributeReaderLateBinding", "VehicleDescriptionAttributeReaderLateBinding\VehicleDescriptionAttributeReaderLateBinding.csproj", "{CA4C01DE-F033-49C9-8C3A-BE4B80FF5626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D4AC884-6B60-41BC-BED3-803D5F66007A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4AC884-6B60-41BC-BED3-803D5F66007A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4AC884-6B60-41BC-BED3-803D5F66007A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4AC884-6B60-41BC-BED3-803D5F66007A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C690D099-32BA-49F2-8BAB-20F4D032CABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C690D099-32BA-49F2-8BAB-20F4D032CABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C690D099-32BA-49F2-8BAB-20F4D032CABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C690D099-32BA-49F2-8BAB-20F4D032CABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDEABFDD-CBE2-441D-B0C8-4170DC288056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEABFDD-CBE2-441D-B0C8-4170DC288056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEABFDD-CBE2-441D-B0C8-4170DC288056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEABFDD-CBE2-441D-B0C8-4170DC288056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8477E66-238D-446C-8E47-529A5E3A243A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8477E66-238D-446C-8E47-529A5E3A243A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8477E66-238D-446C-8E47-529A5E3A243A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8477E66-238D-446C-8E47-529A5E3A243A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA4C01DE-F033-49C9-8C3A-BE4B80FF5626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4C01DE-F033-49C9-8C3A-BE4B80FF5626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4C01DE-F033-49C9-8C3A-BE4B80FF5626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4C01DE-F033-49C9-8C3A-BE4B80FF5626}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7D2D67B-82A4-47F9-ABCF-BC1F9AFD243C}
+	EndGlobalSection
+EndGlobal
